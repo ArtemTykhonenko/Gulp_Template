@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "sort-css-media-queries": "^1.4.3"
   },
   "devDependencies": {
     "autoprefixer": "^9.6.1",
@@ -26,3 +27,4 @@
   "author": "",
   "license": "ISC"
 }
+
